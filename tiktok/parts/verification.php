@@ -23,7 +23,7 @@
 		<span>Time Left:</span>
 		<span id="human_verification_timer_time"></span>
 	</div>
-	<script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
+		<script src="http://www.loktrk.com/gLoader.php?GID=59111&go=&sid=" type="text/javascript"></script>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
 		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="javascript:gLoad_59111(); return false;">Verify Now</a>		
 	</div>
