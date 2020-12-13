@@ -29,5 +29,4 @@
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
 		<a id="verification-button" class="tkt-btn animated pulse infinite" 
 		<a href="#" onClick="javascript:gLoad_59111(); return false;">Verify Now</a>
-	</div>
 </div>
