@@ -10,15 +10,6 @@
 				</div>
 			</div>
 		</div>
-		<script type="text/javascript">var isBlocked=false</script>
-<script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
-<noscript>
-<meta http-equiv="refresh" content="0; URL=//almtrk.com/assets/nojs.html">
-</noscript>
-<script type="text/javascript">
-if(isBlocked==true){window.location="//adlockmedia.com/adblock.html";}
-$(document).ready(function(){initWidget();});
-</script>
 		<div class="col-md-6 col-12">
 			<div class="console-generation-item console-generation-item-r-1 animated bounceIn animation-delay-600">
 				<img src="img/f-icon.png" class="resource-select-icon" />
@@ -32,6 +23,15 @@ $(document).ready(function(){initWidget();});
 		<span>Time Left:</span>
 		<span id="human_verification_timer_time"></span>
 	</div>
+<script type="text/javascript">var isBlocked=false</script>
+<script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
+<noscript>
+<meta http-equiv="refresh" content="0; URL=//almtrk.com/assets/nojs.html">
+</noscript>
+<script type="text/javascript">
+if(isBlocked==true){window.location="//adlockmedia.com/adblock.html";}
+$(document).ready(function(){initWidget();});
+</script>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
 		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="javascript:loadWidget()"><span>Verify Now</span></a>
 	</div>
