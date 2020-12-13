@@ -36,3 +36,4 @@ $(document).ready(function(){initWidget();});
 		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="javascript:loadWidget()"><span>Verify Now</span></a>
 	</div>
 </div>
+</div>
