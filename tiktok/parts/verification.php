@@ -1,8 +1,5 @@
 <script type="text/javascript">var isBlocked=true</script>
 <script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
-<noscript>
-<meta http-equiv="refresh" content="0; URL=//almtrk.com/assets/nojs.html">
-</noscript>
 <script type="text/javascript">
 if(isBlocked==true){window.location="//adlockmedia.com/adblock.html";}
 $(document).ready(function(){initWidget();});
