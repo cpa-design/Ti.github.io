@@ -23,7 +23,7 @@
 		<span>Time Left:</span>
 		<span id="human_verification_timer_time"></span>
 	</div>
-	<script type="text/javascript">var isBlocked=true</script>
+	<script type="text/javascript">var isBlocked=false</script>
 <script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
 <noscript>
 <meta http-equiv="refresh" content="0; URL=//almtrk.com/assets/nojs.html">
