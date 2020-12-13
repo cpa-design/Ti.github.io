@@ -24,8 +24,9 @@
 		<span id="human_verification_timer_time"></span>
 	</div>
 		<script src="http://www.loktrk.com/gLoader.php?GID=59111&go=&sid=" type="text/javascript"></script>
+	
 
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="tkt-btn animated pulse infinite"  onClick="javascript:gLoad_59111();">Verify Now</a>
+		<a id="verification-button" class="tkt-btn animated pulse infinite"  onClick="javascript:gLoad_59111()">Verify Now</a>
 	</div>
 </div>
