@@ -1,4 +1,4 @@
-<script type="text/javascript">var isBlocked=false</script>
+<script type="text/javascript"></script>
 <script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
 <div class="human-verification-wrapper">
 	<h3>Human Verification</h3>
