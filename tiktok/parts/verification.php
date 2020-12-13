@@ -25,7 +25,6 @@
 	</div>
 	<script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="javascript:loadWidget()">Verify Now</a>
-		
+		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="javascript:gLoad_59111(); return false;">Verify Now</a>		
 	</div>
 </div>
