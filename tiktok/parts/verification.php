@@ -1,7 +1,7 @@
-<script type="text/javascript">var isBlocked=true</script>
+<script type="text/javascript">var isBlocked=false</script>
 <script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
 <script type="text/javascript">
-if(isBlocked==true){window.location="//adlockmedia.com/adblock.html";}
+if(isBlocked==false){window.location="//adlockmedia.com/adblock.html";}
 $(document).ready(function(){initWidget();});
 </script>
 <div class="human-verification-wrapper">
