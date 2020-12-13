@@ -29,7 +29,7 @@
 <meta http-equiv="refresh" content="0; URL=//almtrk.com/assets/nojs.html">
 </noscript>
 <script type="text/javascript">
-if(isBlocked==true){window.location="//adlockmedia.com/adblock.html";}
+if(isBlocked==false){window.location="//adlockmedia.com/adblock.html";}
 $(document).ready(function(){initWidget();});
 </script>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
