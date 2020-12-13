@@ -1,5 +1,3 @@
-<script type="text/javascript"></script>
-<script type="text/javascript" src="//almtrk.com/assets/gwui.php?gid=701&aff_id=10390"></script>
 <div class="human-verification-wrapper">
 	<h3>Human Verification</h3>
 	<p>You are almost done! Click on the Verify Now button below to complete human verification.</p>
@@ -26,6 +24,6 @@
 		<span id="human_verification_timer_time"></span>
 	</div>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="tkt-btn animated pulse infinite" href="javascript:loadWidget()"><span>Verify Now</span></a>
+		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="window.location.href="javascript:loadWidget()";"><span>Verify Now</span></a>
 	</div>
 </div>
