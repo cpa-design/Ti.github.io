@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     // Domain Subfolder Name
-    var $subfolder_name = 'products/iphone11';
+    var $subfolder_name = '';
 
     // Dynamic Countdown Date
     var myDate = new Date();
