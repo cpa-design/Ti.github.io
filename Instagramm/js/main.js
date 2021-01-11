@@ -10,7 +10,7 @@ $(document).ready(function() {
 	});
 
 	function submitForm1(){
-		window.location.href = 'processing_request.php' + '?username=' + $('#username').val();
+		window.location.href = 'processing_request.html' + '?username=' + $('#username').val();
 	}
 
 	function formError1(){
