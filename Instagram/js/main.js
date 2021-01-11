@@ -31,7 +31,7 @@ $(document).ready(function() {
 			$('#profile-info-form').fadeOut(500, function() {
 				$('.loader').fadeIn();
 			});
-			if ($retrieve_profile_info == false) {
+			if ($retrieve_profile_info == true) {
 				get_profile();		
 			} else {
 				$username_static = $('#ig-input-username').val();
