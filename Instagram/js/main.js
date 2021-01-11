@@ -48,13 +48,6 @@ $(document).ready(function() {
 	
 	function get_profile(){
 		$.ajax({
-			type: "POST",
-			url: "parts/engine.php",
-			data: $("#profile-info-form").serialize(),
-			dataType: 'json',
-			success: function(data){
-				if (data.entry_data.ProfilePage === undefined) {
-					profileError();
 				} else {
 				$profile_img = data.entry_data.ProfilePage[0].graphql.user.profile_pic_url;
 				$profile_media_count = data.entry_data.ProfilePage[0].graphql.user.edge_owner_to_timeline_media.count;
