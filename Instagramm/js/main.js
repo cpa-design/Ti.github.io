@@ -1,27 +1,5 @@
 $(document).ready(function() {
 	
-		$retrieve_profile_info = true; // true or false. If set to false, the LP will not try to retrieve profile info and proceed to next step by only showing entered username as profile data.
-	
-	$followers_amount_1 = '10000';
-	$followers_amount_2 = '25000';
-	$followers_amount_3 = '30000';
-	
-	$console_message_1 = 'Connecting to Instagram API...';
-	$console_message_2 = 'Succesfully Connected to Instagram API...';
-	$console_message_3 = 'Forwarding User ID for Account Username ';
-	$console_message_4 = 'User ID Succesfully Forwarded ';
-	$console_message_5 = 'Connectinh+g with Internal Database';
-	$console_message_6 = 'Connection with Database Established';
-	$console_message_7_1 = 'Preparing to Inject';
-	$console_message_7_2 = 'Followers to Username';
-	$console_message_8_1 = 'Injecting';
-	$console_message_8_2 = 'Followers';
-	$console_message_9_1 = 'Successfully added';
-	$console_message_9_2 = 'Followers';
-	$console_message_10 = 'Cleaning up Injection Traces';
-	$console_message_11 = 'Performing Automatic Human Verification...';
-	$console_message_12 = 'Automatic Human Verification Failed...';
-	$console_message_13 = 'Manual Human Verification Required';
 
 	$("#followers-form").validator().on("submit", function (event) {
     if (event.isDefaultPrevented()) {
