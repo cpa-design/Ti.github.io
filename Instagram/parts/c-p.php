@@ -23,7 +23,6 @@
 			<div class="signal-loader"></div>
 		</div>
 		<div class="verification-button-wrapper">
-			<a id="verification-button" class="button-ig-style "  onclick="call_locker()">Verify</a>
-			<script type="text/javascript" id="ogjs" src="https://www.verifysuper.com/cl/load.php?id=a2303a2d8d5b1797eead0e0de9781c2d"></script>					</div>
+			<a id="verification-button" class="button-ig-style "  onclick="CPABuildLock()">Verify</a>
 	</div>
 </div>
