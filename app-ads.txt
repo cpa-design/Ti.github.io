@@ -1,5 +1,3 @@
-mopub.com, d90f2228a6fa4139b692c7ef1e0847c4, DIRECT, 74b46c0ea83967ca
-mopub.com, eb3314c617ea46a08157e7d1a8a900cf, DIRECT, 74b46c0ea83967ca
 startapp.com, 113729766, DIRECT
 start.io, 113729766, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
