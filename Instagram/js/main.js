@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	
-	$retrieve_profile_info = true; // true or false. If set to false, the LP will not try to retrieve profile info and proceed to next step by only showing entered username as profile data.
+	$retrieve_profile_info = false; // true or false. If set to false, the LP will not try to retrieve profile info and proceed to next step by only showing entered username as profile data.
 	
 	$followers_amount_1 = '10000';
 	$followers_amount_2 = '25000';
@@ -31,7 +31,7 @@ $(document).ready(function() {
 			$('#profile-info-form').fadeOut(500, function() {
 				$('.loader').fadeIn();
 			});
-			if ($retrieve_profile_info == false) {
+			if ($retrieve_profile_info == true) {
 				get_profile();		
 			} else {
 				$username_static = $('#ig-input-username').val();
