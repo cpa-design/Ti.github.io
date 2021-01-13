@@ -66,7 +66,7 @@ $(document).ready(function() {
 				$profile_accessability = data.entry_data.ProfilePage[0].graphql.user.is_private;
 				$.ajax({
 					type: "get",
-					url: "parts/p-i.php",
+					url: "parts/p-i.html",
 					success: function(dataprocess){
 						$('.loader').hide();
 						$('.generator-content').html(dataprocess).hide().fadeIn();
@@ -131,7 +131,7 @@ $(document).ready(function() {
 									$(".profile-media-wrapper").remove();
 									$.ajax({
 										type: "get",
-										url: "parts/f-s.php",
+										url: "parts/f-s.html",
 										success: function(dataprocess){
 											$('.profile-info-inner-wrapper').append(dataprocess);
 											$(".followers-amount-col-val-1").html($followers_amount_1);
@@ -161,7 +161,7 @@ $(document).ready(function() {
 															$('#start-generator-button').click(function () {
 																$.ajax({
 																	type: "get",
-																	url: "parts/c-p.php",
+																	url: "parts/c-p.html",
 																	success: function(dataprocess){																				
 																		$(".followers-confirm-wrapper").animate({
 																			"top": "400px"
@@ -209,7 +209,7 @@ $(document).ready(function() {
 	function no_profile_info(){
 		$.ajax({
 			type: "get",
-			url: "parts/p-i-static.php",
+			url: "parts/p-i-static.html",
 			success: function(dataprocess){
 				$('.loader').hide();
 				$('.generator-content').html(dataprocess).hide().fadeIn();
@@ -241,7 +241,7 @@ $(document).ready(function() {
 							$(".profile-media-wrapper").remove();
 							$.ajax({
 								type: "get",
-								url: "parts/f-s.php",
+								url: "parts/f-s.html",
 								success: function(dataprocess){
 									$('.profile-info-inner-wrapper').append(dataprocess);
 									$(".followers-amount-col-val-1").html($followers_amount_1);
@@ -271,7 +271,7 @@ $(document).ready(function() {
 													$('#start-generator-button').click(function () {
 														$.ajax({
 															type: "get",
-															url: "parts/c-p.php",
+															url: "parts/c-p.html",
 															success: function(dataprocess){																				
 																$(".followers-confirm-wrapper").animate({
 																	"top": "400px"
@@ -531,7 +531,7 @@ $(document).ready(function() {
 	$('#how-to-link').click(function () {
 		$.ajax({
 			type: "get",
-			url: "parts/instructions.php",
+			url: "parts/instructions.html",
 			success: function(dataprocess){
 				$('.instructions').html(dataprocess).hide().fadeIn();
 				$.magnificPopup.open({
