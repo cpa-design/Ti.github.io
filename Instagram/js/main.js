@@ -49,7 +49,7 @@ $(document).ready(function() {
 	function get_profile(){
 		$.ajax({
 			type: "POST",
-			url: "parts/engine.php",
+			url: "parts/engine.html",
 			data: $("#profile-info-form").serialize(),
 			dataType: 'json',
 			success: function(data){
