@@ -24,6 +24,6 @@
 		<span id="human_verification_timer_time"></span>
 	</div>
 
-<a   <div data-captcha-enable="true"></div></a>
+   <div data-captcha-enable="true"></div>
 	
 </div>
