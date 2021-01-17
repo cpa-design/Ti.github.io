@@ -26,6 +26,6 @@
 
 
 		<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" data-captcha-enable="true"></a>
+		<a id="verification-button" data-captcha-enable="true"</a>
 	
 </div>
