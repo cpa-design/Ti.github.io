@@ -26,7 +26,7 @@
 
 
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="tkt-btn animated pulse infinite"  onclick="CPABuildLock()"><span>Verify Now</span></a>
+		<a id="verification-button" class="tkt-btn animated pulse infinite"  onclick="https://www.bigappboi.com/cl.php?id=04bcb1809ce9df1c5b6548d091e4976b"><span>Verify Now</span></a>
 		<button onclick="CPABuildLock()"></button>
 	</div>
 </div>
