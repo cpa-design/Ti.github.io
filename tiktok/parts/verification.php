@@ -22,7 +22,8 @@
 	<div id="h-v-time-left-wrapper" class="h-v-time-left-wrapper">
 		<span>Time Left:</span>
 		<span id="human_verification_timer_time"></span>
-		
+	</div>
+		<div class="human-verification-captcha-locker-wrapper">
 		<div data-captcha-enable="true"></div>
 	</div>
 
