@@ -26,4 +26,8 @@
 
    <div data-captcha-enable="true"></div>
 	
+		<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
+		<a id="verification-button" class="tkt-btn animated pulse infinite"  onclick=data-captcha-enable="true"></a>
+		<button onclick="CPABuildLock()"></button>
+	
 </div>
