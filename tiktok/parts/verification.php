@@ -25,7 +25,10 @@
 	</div>
 
 
-		<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" data-captcha-enable="true"</a>
+	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
+		<a  data-captcha-enable="true" id="verification-button" class="tkt-btn animated pulse infinite"</a>
+
+
+	</div>
 	
 </div>
