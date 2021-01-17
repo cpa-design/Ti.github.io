@@ -24,7 +24,7 @@
 		<span id="human_verification_timer_time"></span>
 	</div>
 
-	<div <a  data-captcha-enable="true" id="verification-button" class="tkt-btn animated pulse infinite"</a>
+	<div <a  data-captcha-enable="true"
 
 	</div>
 </div>
